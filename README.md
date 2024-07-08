@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Arbi Jridi</h1>
 <h3 align="center">A frontend developer</h3>
 
-<p align="left"> <img src="(https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif" alt="Dev" /> </p>
+<p align="left"> <img src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/programer.gif" alt="Dev" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arbi-jridi&label=Profile%20views&color=0e75b6&style=flat" alt="arbi-jridi" /> </p>
 
