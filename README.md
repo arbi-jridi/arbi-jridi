@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <h1 align="center" blue>Hi 👋, I'm Arbi Jridi</h1>
 <h3 align="center">A frontend developer</h3>
