@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center" color="blue">Hi 👋, I'm Arbi Jridi</h1>
+<h1 align="center" style:color="blue">Hi 👋, I'm Arbi Jridi</h1>
 <h3 align="center">A frontend developer</h3>
 
 <p align="left"> <img src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" alt="Dev" /> </p>
@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ar_jridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar_jridi" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arbi-jridi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arbi-jridi/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arbi-jridi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arbi-jridi/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
