@@ -32,13 +32,14 @@
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=arbi-jridi&show_icons=true&locale=en" alt="arbi-jridi" /></p>
 <div align="center">
+  <br>
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
-
+ <hr>
 <div align="center"> 
   <a href="mailto:arbi.jridi@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
