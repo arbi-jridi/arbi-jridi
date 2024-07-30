@@ -31,6 +31,23 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbi-jridi&show_icons=true&locale=en&layout=compact" alt="arbi-jridi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbi-jridi&show_icons=true&locale=en" alt="arbi-jridi" /></p>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<div align="center"> 
+  <a href="mailto:arbi.jridi@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+
+  <a href="https://arbi-jridi.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbi-jridi&" alt="arbi-jridi" /></p>
 
