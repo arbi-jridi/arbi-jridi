@@ -42,6 +42,8 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbi-jridi&show_icons=true&locale=en&layout=compact" alt="arbi-jridi" /></p>
+ <br/>
+
 ⚡ GitHub Stats 
 
 <table align="center">
@@ -63,7 +65,7 @@
   </td>
 </tr>
 </table>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arbi-jridi&show_icons=true&locale=en" alt="arbi-jridi" /></p>
+
 <div align="center">
  <br/>
   <h2 align="center">🐍 My Contributions 🐍</h2>
