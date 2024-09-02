@@ -41,17 +41,16 @@
 </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arbi-jridi&show_icons=true&locale=en&layout=compact" alt="arbi-jridi" /></p>
  <br/>
-
-⚡ GitHub Stats 
+<h3 align="center">⚡ GitHub Stats </h3>
+  <br>
 
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
 	
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=arbi-jridi&theme=dark" alt="GitHub Streak" /></a>	
-[![oussema_sahbeni's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=arbi-jridi&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
+[![Arbi Jridi's LeetCode Stats](https://leetcode-stats.vercel.app/api?username=arbi-jridi&theme=Dark)](https://github.com/JeremyTsaii/leetcode-stats)
 
 </td>
 <td width="50%" align="center">
@@ -88,6 +87,6 @@
   </a>
   
 </div>
-
+<div align="center"> 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arbi-jridi&" alt="arbi-jridi" /></p>
-
+</div>
