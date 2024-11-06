@@ -15,7 +15,7 @@
 
 <p align="right"> <a href="https://twitter.com/ar_jridi" target="blank"><img src="https://img.shields.io/twitter/follow/ar_jridi?logo=twitter&style=for-the-badge" alt="ar_jridi" /></a> </p>
 
-- 🔭 I’m currently working on **many projects**
+- 🔭 I’m currently working on **many projects...**
 
 - 💬 Ask me about **Angular**
 
@@ -30,7 +30,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind,figma,materialui,netlify,nodejs,firebase,supabase,wordpress" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind,figma,materialui,netlify,nodejs,firebase,supabase,wordpress,prisma" />
   </a>
 </p>
 🔮 Tools:
