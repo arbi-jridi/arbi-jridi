@@ -12,8 +12,6 @@
 
 <p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arbi-jridi" alt="arbi-jridi" /></a> </p>
 
-<p align="right"> <a href="https://twitter.com/ar_jridi" target="blank"><img src="https://img.shields.io/twitter/follow/ar_jridi?logo=twitter&style=for-the-badge" alt="ar_jridi" /></a> </p>
-
 - 🔭 I’m currently working on **many projects...**
 
 - 💬 Ask me about **Angular**
@@ -22,7 +20,6 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/ar_jridi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ar_jridi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/arbi-jridi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arbi-jridi/" height="30" width="40" /></a>
 </p>
 🚀 Languages:
