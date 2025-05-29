@@ -26,13 +26,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind,figma,materialui,netlify,nodejs,express,firebase,,wordpress,prisma?" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind,figma,materialui,netlify,nodejs,express,wordpress,prisma?" />
   </a>
 </p>
 🛢️ Databases:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql" />
+    <img src="https://skillicons.dev/icons?i=firebase,supabase,mongodb,mysql" />
   </a>
 </p>
 
