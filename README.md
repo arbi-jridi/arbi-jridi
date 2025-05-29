@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on **many projects...**
 
-- 💬 Ask me about **Angular**
+- 💬 Ask me about **Angular | Nodejs | MongoDb | SQL**
 
 - 📫 How to reach me **arbi.jridi@gmail.com**
 
@@ -26,13 +26,20 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind,figma,materialui,netlify,nodejs,firebase,supabase,wordpress,prisma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,angular,bootstrap,tailwind,figma,materialui,netlify,nodejs,express,firebase,,wordpress,prisma?" />
   </a>
 </p>
+🛢️ Databases:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=supabase,mongodb,mysql" />
+  </a>
+</p>
+
 🔮 Tools:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,npm,stackoverflow,pr,ps,ae" />
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,vscode,npm,stackoverflow,webpack,webflow,pr,ps,ae,xd" />
   </a>
 </p>
 
