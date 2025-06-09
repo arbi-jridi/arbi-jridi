@@ -79,7 +79,10 @@
  <hr>
 <div align="center"> 
   <a href="mailto:arbi.jridi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" />
+  </a>
+    <a href="https://www.linkedin.com/in/arbi-jridi">
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" />
   </a>
 
   <a href="https://arbi-jridi.github.io" target="_blank">
