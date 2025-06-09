@@ -85,8 +85,14 @@
   <a href="https://arbi-jridi.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
-    <a href="https://arbi-jridi.framer.website" target="_blank">
-     <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+    <a href="https://ngblog-2025.web.app" target="_blank">
+     <img src="https://img.shields.io/badge/Blogger-%23FF5722.svg?logo=blogger&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+      <a href="https://medium.com/@arbi-jridi" target="_blank">
+     <img src="https://img.shields.io/badge/Medium-%23000000.svg?logo=medium&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+        <a href="https://dev.to/arbi-jridi" target="_blank">
+     <img src="https://img.shields.io/badge/Dev.to-0A0A0A?logo=devdotto&logoColor=white" target="_blank /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
   
 </div>
